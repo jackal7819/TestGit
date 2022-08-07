@@ -1,0 +1,8 @@
+/* ----- Фейл для збереження змынних -------- */
+
+
+:root {
+    --background-main: linear-gradient(170deg, #1c3230, #91aaba);
+    --font-main: 18px;
+    --background-btn: linear-gradient(10deg, #000000, #ffddff);
+}
