@@ -99,6 +99,7 @@ body {
 .main section:nth-child(4) {
     display: inline-block;
     width: calc(50% - 15px);
+    vertical-align: top;
 }
 .main section:nth-child(3) {
     margin-right: 30px;
